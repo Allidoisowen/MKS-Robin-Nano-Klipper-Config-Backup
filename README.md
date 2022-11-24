@@ -10,3 +10,4 @@ MKS Robin Nano v3
 TMC 2209 in Uart mode  
 Communication to Raspberry Pi over UART3 connection to the MKS board  
 BL touch using Zmin as sensor pin.  
+E3d Hemera Hotend
